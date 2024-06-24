@@ -1,17 +1,11 @@
 .navbar{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
     padding: .5em 2em;
     background-color: #00856F;
+    color: #fff;
     font-size: 20px;
+    text-align: center;
+    border: 1px solid black;
     
 }
 
-ul{
-    display: flex;
-    gap: 40px;
-    list-style: none;
-    
-    
-}
+
